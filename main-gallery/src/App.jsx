@@ -3,7 +3,7 @@ import './App.css'
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 //components
-import Cube from './Cube';
+import Slick from './Slick';
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Cube />} />
+        <Route path="/" element={<Slick />} />
       </Routes>
     </Router>
   );
