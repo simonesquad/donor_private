@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path='/' component={Cube} />
+        <Route path="/" element={<Cube />} />
       </Routes>
     </Router>
   );
