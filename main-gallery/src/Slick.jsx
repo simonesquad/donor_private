@@ -20,7 +20,7 @@ const Slick = () => {
   return (
         <div>
             <div className="content">
-                <h1 className="header">WELCOME TO THE BURN!!</h1>
+                <h1 className="header">WELCOME TO MY FIRST BURN!!</h1>
                 <img height='390px' width='900px' src='src/assets/IMG_1055.jpeg' />
                 <div className="container">
                     <p>Howdy travellers of the universe! Welcome to my commemoration page of Burning Man 2025</p>
