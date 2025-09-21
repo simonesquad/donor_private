@@ -43,13 +43,6 @@ const Bazaar = () => {
                         </div>
                     ))}
                     </Slider>
-                    <Slider {...settings}>
-                    {Images_8.map((item) => (
-                        <div key={item.id}>
-                        <img src={item.src} alt={item.alt} className="img" />
-                        </div>
-                    ))}
-                    </Slider>
                 </div>
                 </div>  
             </div>
