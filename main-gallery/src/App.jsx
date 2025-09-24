@@ -7,6 +7,7 @@ import Slick from './Slick';
 import Desert from './Desert';
 import Water from './Water';
 import Bazaar from './Bazaar';
+import Jewel from './Jewel';
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="/desert" element={<Desert />} />
         <Route path="/water" element={<Water />} />
         <Route path="/bazaar" element={<Bazaar />} />
+        <Route path="/jewel" element={<Jewel />} />
       </Routes>
     </Router>
   );
