@@ -9,6 +9,7 @@ import Water from './Water';
 import Bazaar from './Bazaar';
 import Jewel from './Jewel';
 import Dual from './Dual';
+import S from './S';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <Route path="/bazaar" element={<Bazaar />} />
         <Route path="/jewel" element={<Jewel />} />
         <Route path="/dual" element={<Dual />} />
+        <Route path="/s" element={<S />} />
       </Routes>
     </Router>
   );
