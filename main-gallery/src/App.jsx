@@ -13,6 +13,7 @@ import S from './S';
 import Blue from './Blue';
 import Cross from './Cross';
 import Mask from './Mask';
+import Quad from './Quad';
 
 function App() {
 
@@ -29,6 +30,7 @@ function App() {
         <Route path="/blue" element={<Blue />} />
         <Route path="/cross" element={<Cross />} />
         <Route path="/mask" element={<Mask />} />
+        <Route path="/quad" element={<Quad />} />
       </Routes>
     </Router>
   );
