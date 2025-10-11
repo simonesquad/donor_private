@@ -14,6 +14,10 @@ import Blue from './Blue';
 import Cross from './Cross';
 import Mask from './Mask';
 import Quad from './Quad';
+import Sunset from './Sunset';
+import Furnished from './Furnished';
+import Night from './Night';
+import StarShine from './StarShine';
 
 function App() {
 
@@ -31,6 +35,10 @@ function App() {
         <Route path="/cross" element={<Cross />} />
         <Route path="/mask" element={<Mask />} />
         <Route path="/quad" element={<Quad />} />
+        <Route path="/sunset" element={<Sunset />} />
+        <Route path="/sithere" element={<Furnished />} />
+        <Route path="/night" element={<Night />} />
+        <Route path="/starshine" element={<StarShine />} />
       </Routes>
     </Router>
   );

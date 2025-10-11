@@ -19,7 +19,7 @@ const Bazaar = () => {
       return (
         <div>
             <div className="content">
-                <h1 className="header"></h1>
+                <h1 className="header">BAZAAR</h1>
                 </div>
                 
                 <div className="container">
