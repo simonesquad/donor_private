@@ -18,6 +18,7 @@ import Sunset from './Sunset';
 import Furnished from './Furnished';
 import Night from './Night';
 import StarShine from './StarShine';
+import High from './High';
 
 function App() {
 
@@ -39,6 +40,7 @@ function App() {
         <Route path="/sithere" element={<Furnished />} />
         <Route path="/night" element={<Night />} />
         <Route path="/starshine" element={<StarShine />} />
+        <Route path="/high" element={<High />} />
       </Routes>
     </Router>
   );
