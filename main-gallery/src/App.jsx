@@ -26,6 +26,7 @@ import Camp from './Camp';
 import Day from './Day';
 import Vigil from './Vigil';
 import Contained from './Contained';
+import Desert2 from './Desert2';
 
 function App() {
 
@@ -55,6 +56,7 @@ function App() {
         <Route path="/day" element={<Day />} />
         <Route path="/vigil" element={<Vigil />} />
         <Route path="/contained" element={<Contained />} />
+        <Route path="/desert2" element={<Desert2 />} />
       </Routes>
     </Router>
   );
