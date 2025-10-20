@@ -22,6 +22,10 @@ import High from './High';
 import Rider from './Rider';
 import Salty from './Salty';
 import Pink from './Pink';
+import Camp from './Camp';
+import Day from './Day';
+import Vigil from './Vigil';
+import Contained from './Contained';
 
 function App() {
 
@@ -47,6 +51,10 @@ function App() {
         <Route path="/rider" element={<Rider />} />
         <Route path="/salty" element={<Salty />} />
         <Route path="/pink" element={<Pink />} />
+        <Route path="/camp" element={<Camp />} />
+        <Route path="/day" element={<Day />} />
+        <Route path="/vigil" element={<Vigil />} />
+        <Route path="/contained" element={<Contained />} />
       </Routes>
     </Router>
   );
