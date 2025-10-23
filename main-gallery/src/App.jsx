@@ -27,6 +27,12 @@ import Day from './Day';
 import Vigil from './Vigil';
 import Contained from './Contained';
 import Desert2 from './Desert2';
+import Mugshot from './Mugshot';
+import ThankYou from './ThankYou';
+import AllNight from './AllNight';
+import Mirage from './Mirage';
+import Hey from './hey';
+import Carnival from './Carnival';
 
 function App() {
 
@@ -57,6 +63,12 @@ function App() {
         <Route path="/vigil" element={<Vigil />} />
         <Route path="/contained" element={<Contained />} />
         <Route path="/desert2" element={<Desert2 />} />
+        <Route path="/mugshot" element={<Mugshot />} />
+        <Route path="/thankyou" element={<ThankYou />} />
+        <Route path="/allnight" element={<AllNight />} />
+        <Route path="/mirage" element={<Mirage />} />
+        <Route path="/hey" element={<Hey />} />
+        <Route path="/carnival" element={<Carnival />} />
       </Routes>
     </Router>
   );
