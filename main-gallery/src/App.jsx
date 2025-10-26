@@ -35,6 +35,7 @@ import Hey from './hey';
 import Carnival from './Carnival';
 import SteelHeart from './SteelHeart';
 import Onwards from './Onwards';
+import Chill from './Chill';
 
 function App() {
 
@@ -73,6 +74,7 @@ function App() {
         <Route path="/carnival" element={<Carnival />} />
         <Route path="/steelheart" element={<SteelHeart />} />
         <Route path="/onwards" element={<Onwards />} />
+        <Route path="/chill" element={<Chill />} />
       </Routes>
     </Router>
   );
