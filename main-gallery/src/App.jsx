@@ -33,6 +33,8 @@ import AllNight from './AllNight';
 import Mirage from './Mirage';
 import Hey from './hey';
 import Carnival from './Carnival';
+import SteelHeart from './SteelHeart';
+import Onwards from './Onwards';
 
 function App() {
 
@@ -69,6 +71,8 @@ function App() {
         <Route path="/mirage" element={<Mirage />} />
         <Route path="/hey" element={<Hey />} />
         <Route path="/carnival" element={<Carnival />} />
+        <Route path="/steelheart" element={<SteelHeart />} />
+        <Route path="/onwards" element={<Onwards />} />
       </Routes>
     </Router>
   );
