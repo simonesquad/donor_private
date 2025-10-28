@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -8,7 +9,7 @@ import Images_3 from "./Images_3";
 
 const Slick = () => {
     const settings = {
-        dots: true,
+        dots: false,
         infinite: true,
         speed: 500,
         slidesToShow: 3,
@@ -34,7 +35,14 @@ const Slick = () => {
                     <h3>Hope we cross paths again soon#</h3>
                     <p>Follow me at my website shared in the legacy campaign found here:</p>
                     <a href="https://fnd.us/b2WZGf?ref=sh_2E1mj5">Burning 4 Ukraine Relief</a>
+                    <br></br>
+                    <p>Continue your journery</p><Link to="/water"><p>here</p></Link>
                 </div>
+                {/* <div className="container3">
+                    <Link to="/water">
+                        <button height='40px' width='60px'>Start Your Journey Here</button>
+                    </Link>
+                </div> */}
                 <div className="container">
                     <Slider {...settings}>
                     {Images_1.map((item) => (
@@ -57,7 +65,7 @@ const Slick = () => {
                         </div>
                     ))}
                     </Slider>
-                </div>
+                </div>  
             </div>
         </div>
   );

@@ -1,6 +1,8 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+
 
 
 const Desert2 = () => {
@@ -26,6 +28,12 @@ const Desert2 = () => {
                 <div className="container">
                 <img height='450px' width='350px' src='src/assets/IMG_1343.jpeg' />
                 </div>
+                </div>
+
+                <div className="container3">
+                    <Link to="/chill">
+                        <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );

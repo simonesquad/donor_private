@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -21,6 +22,12 @@ const Camp = () => {
                 <div className="container">
                 <img height='500px' width='325px' src='src/assets/IMG_1130.jpeg' />
                 </div>
+                </div>
+
+                <div className="container3">
+                    <Link to="/desert2">
+                          <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );
