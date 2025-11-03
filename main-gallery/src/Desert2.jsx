@@ -31,7 +31,7 @@ const Desert2 = () => {
                 </div>
 
                 <div className="container3">
-                    <Link to="/chill">
+                    <Link to="/camp">
                         <h3>continue</h3>
                     </Link>
                 </div>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -18,6 +19,12 @@ const Night = () => {
                 <div className="container">
                 <img height='500px' width='425px' src='src/assets/IMG_1135.jpeg' />
                 </div>
+                </div>
+
+                <div className="container3">
+                    <Link to="/day">
+                        <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );

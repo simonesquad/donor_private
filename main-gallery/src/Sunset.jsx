@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -20,6 +21,12 @@ const Sunset = () => {
                 <img height='400px' width='325px' src='src/assets/IMG_1179.jpeg' />
                 <img height='400px' width='325px' src='src/assets/IMG_1180.jpeg' />
                 <img height='400px' width='325px' src='src/assets/IMG_1182.jpeg' />
+                </div>
+
+                <div className="container3">
+                    <Link to="/quad">
+                        <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );

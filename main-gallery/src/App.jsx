@@ -36,6 +36,7 @@ import Carnival from './Carnival';
 import SteelHeart from './SteelHeart';
 import Onwards from './Onwards';
 import Chill from './Chill';
+import Choose from './Choose';
 
 function App() {
 
@@ -75,6 +76,7 @@ function App() {
         <Route path="/steelheart" element={<SteelHeart />} />
         <Route path="/onwards" element={<Onwards />} />
         <Route path="/chill" element={<Chill />} />
+        <Route path="/choose" element={<Choose />} />
       </Routes>
     </Router>
   );

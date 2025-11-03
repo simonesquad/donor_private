@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -23,6 +24,11 @@ const Quad = () => {
                 </video> 
                 </div>            
             </div>
+            <div className="container3">
+                    <Link to="/steelheart">
+                        <h3>continue</h3>
+                    </Link>
+                </div>
         </div>
   );
 };

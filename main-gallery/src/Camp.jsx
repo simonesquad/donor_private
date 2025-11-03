@@ -25,7 +25,7 @@ const Camp = () => {
                 </div>
 
                 <div className="container3">
-                    <Link to="/desert2">
+                    <Link to="/s">
                           <h3>continue</h3>
                     </Link>
                 </div>

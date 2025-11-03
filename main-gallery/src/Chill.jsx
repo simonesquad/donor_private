@@ -22,7 +22,7 @@ const Chill = () => {
                 </div>
 
                 <div className="container3">
-                    <Link to="/chill">
+                    <Link to="/contained">
                         <h3>continue</h3>
                     </Link>
                 </div>

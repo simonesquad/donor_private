@@ -69,7 +69,7 @@ const Bazaar = () => {
                     </Slider>
                 </div>
                 <div className="container3">
-                    <Link to="/camp">
+                    <Link to="/night">
                         <h3>continue</h3>
                     </Link>
                 </div>
