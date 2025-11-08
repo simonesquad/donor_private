@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -15,6 +16,12 @@ const Furnished = () => {
                 <video width="320" height="540" controls>
                     <source src="src/assets/IMG_1131.mp4" type="video/mp4" />
                 </video>                
+                </div>
+
+                <div className="container3">
+                    <Link to="/jewel">
+                        <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );

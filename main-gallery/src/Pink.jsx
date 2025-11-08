@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -30,6 +31,12 @@ const Pink = () => {
                     ))}
                     </Slider>
                 </div>
+
+            <div className="container3">
+                <Link to="/rider">
+                    <h3>continue</h3>
+                </Link>
+            </div>
                 
             </div>
   );

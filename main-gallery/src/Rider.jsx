@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -20,6 +21,12 @@ const Rider = () => {
                 <img height='400px' width='325px' src='src/assets/IMG_1307.jpeg' />
                 <img height='400px' width='325px' src='src/assets/IMG_1308.jpeg' />
                 <img height='400px' width='325px' src='src/assets/IMG_1309.jpeg' />
+                </div>
+
+                <div className="container3">
+                    <Link to="/rider">
+                        <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );

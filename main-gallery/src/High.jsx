@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -22,6 +23,12 @@ const High = () => {
                     <source src="src/assets/IMG_1271.mp4" type="video/mp4" />
                 </video> 
                 </div>            
+            </div>
+
+            <div className="container3">
+                <Link to="/carnival">
+                    <h3>continue</h3>
+                </Link>
             </div>
         </div>
   );

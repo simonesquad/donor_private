@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -27,6 +28,13 @@ const Salty = () => {
                 <img height='450px' width='350px' src='src/assets/IMG_1297.jpeg' />
                 </div>
                 </div>
+
+                <div className="container3">
+                  <Link to="/hey">
+                      <h3>continue</h3>
+                  </Link>
+              </div>
+
             </div>
   );
 };

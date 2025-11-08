@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -28,6 +29,12 @@ const Mirage = () => {
                 </div>
                 <div className="container">
                 <img height='400px' width='350px' src='src/assets/IMG_1359.jpeg' />
+                </div>
+
+                <div className="container3">
+                    <Link to="/allnight">
+                        <h3>continue</h3>
+                    </Link>
                 </div>
             </div>
   );

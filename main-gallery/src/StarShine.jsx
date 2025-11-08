@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -18,12 +19,13 @@ const StarShine = () => {
       };
 
       return (
+        <>
         <div>
             <div className="content">
                 <h1 className="header">STARSHINE</h1>
                 </div>
                 
-                <div className="container">
+                <div className="container4">
                     <Slider {...settings}>
                     {Images_11.map((item) => (
                         <div key={item.id}>
@@ -53,7 +55,15 @@ const StarShine = () => {
                     ))}
                     </Slider>
                 </div>
+
             </div>
+            <div className="container3">
+            <Link to="/high">
+                <h3>continue</h3>
+            </Link>
+            </div>
+
+    </>
   );
 };
 
