@@ -24,7 +24,7 @@ const Rider = () => {
                 </div>
 
                 <div className="container3">
-                    <Link to="/rider">
+                    <Link to="/thankyou">
                         <h3>continue</h3>
                     </Link>
                 </div>

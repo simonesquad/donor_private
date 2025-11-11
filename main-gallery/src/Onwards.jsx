@@ -30,15 +30,15 @@ const Onwards = () => {
                 </div>
                 </div>
 
-                <div className="container3">
+                {/* <div className="container3">
                     <Link to="/thankyou">
                         <h3>continue</h3>
                     </Link>
-                </div>
+                </div> */}
 
                 <div className="container3">
                     <Link to="/choose">
-                        <h3>continue2</h3>
+                        <h3>continue</h3>
                     </Link>
                 </div>
             </div>
