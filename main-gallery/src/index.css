@@ -1,0 +1,45 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  background: #fff;
+  width: 90%;
+}
+.content {
+  text-align: center;
+  margin-bottom: 10vh;
+}
+.header {
+  font-size: 42px;
+}
+.img {
+  display: flex;
+  margin: 0 auto;
+  height: 40vh;
+  width: 80%;
+  border-radius: 5%;
+}
+.container {
+  margin: 0 auto;
+  width: 100%;
+  height: 80vh;
+  border-color: white;
+}
+.container2 {
+  display: flex;
+  width: 100%;
+}
+.container3 {
+  display: flex;
+  height: 30vh;
+  width: 100%;
+  margin-left: 47%;
+  margin-top: 10%;
+}
+.container4 {
+  margin: 0 auto;
+  width: 100%;
+  height: 170vh;
+  border-color: white;
+}
