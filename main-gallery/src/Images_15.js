@@ -37,3 +37,5 @@ const Images_15 = [
 ];
 
 export default Images_15;
+
+//COMMIT COMMENT CHECK NEW PATHS 
