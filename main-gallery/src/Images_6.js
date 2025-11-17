@@ -1,22 +1,22 @@
 const Images_1 = [
     {
         id: 1,
-        src: "main-gallery/src/assets/IMG_1097.jpeg",
+        src: "/src/assets/IMG_1097.jpeg",
         alt: "this series"
     },
     {
         id: 2,
-        src: "main-gallery/src/assets/IMG_1096.jpeg",
+        src: "/src/assets/IMG_1096.jpeg",
         alt: "this series"
     },
     {
         id: 3,
-        src: "main-gallery/src/assets/IMG_1098.jpeg",
+        src: "/src/assets/IMG_1098.jpeg",
         alt: "this series"
     },
     {
         id: 4,
-        src: "main-gallery/src/assets/IMG_1103.jpeg",
+        src: "/src/assets/IMG_1103.jpeg",
         alt: "this series"
     }
 ];

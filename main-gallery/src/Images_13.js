@@ -1,17 +1,17 @@
 const Images_13 = [
     {
         id: 7,
-        src: "main-gallery/src/assets/IMG_1250.jpeg",
+        src: "/src/assets/IMG_1250.jpeg",
         alt: "this series"
     },
     {
         id: 8,
-        src: "main-gallery/src/assets/IMG_1243.jpeg",
+        src: "/src/assets/IMG_1243.jpeg",
         alt: "this series"
     },
     {
         id: 9,
-        src: "main-gallery/src/assets/IMG_1253.jpeg",
+        src: "/src/assets/IMG_1253.jpeg",
         alt: "this series"
     },
 ];
