@@ -14,13 +14,13 @@ const High = () => {
                 
                 <div className="container2">
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1239.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1239.mp4" type="video/mp4" />
                 </video> 
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1261.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1261.mp4" type="video/mp4" />
                 </video>  
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1271.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1271.mp4" type="video/mp4" />
                 </video> 
                 </div>            
             </div>

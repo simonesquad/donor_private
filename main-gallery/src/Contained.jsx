@@ -14,34 +14,34 @@ const Contained = () => {
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1393.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1393.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1399.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1399.jpeg' />
                 </div>
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1397.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1397.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1394.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1394.jpeg' />
                 </div>
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1392.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1392.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1401.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1401.jpeg' />
                 </div>
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1400.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1400.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1395.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1395.jpeg' />
                 </div>
                 </div>
 

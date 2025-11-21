@@ -14,10 +14,10 @@ const Chill = () => {
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='500px' width='425px' src='src/assets/IMG_1247.jpeg' />
+                <img height='500px' width='425px' src='/assets/IMG_1247.jpeg' />
                 </div>
                 <div className="container">
-                <img height='500px' width='425px' src='src/assets/IMG_1238.jpeg' />
+                <img height='500px' width='425px' src='/assets/IMG_1238.jpeg' />
                 </div>
                 </div>
 

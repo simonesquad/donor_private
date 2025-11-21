@@ -14,12 +14,12 @@ const Dual = () => {
                 </div>
                 <div className="container">
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1089.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1089.mp4" type="video/mp4" />
                 </video>                
                 </div>
                 <div className="container">
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1109.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1109.mp4" type="video/mp4" />
                 </video>  
                 </div>
 

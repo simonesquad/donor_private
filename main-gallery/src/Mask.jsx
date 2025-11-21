@@ -13,9 +13,9 @@ const Mask = () => {
                 <h1 className="header">MASK</h1>
                 </div>
                 <div className="container2">
-                <img height='400px' width='350px' src='src/assets/IMG_1200.jpeg' />
-                <img height='400px' width='350px' src='src/assets/IMG_1195.jpeg' />
-                <img height='400px' width='350px' src='src/assets/IMG_1194.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1200.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1195.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1194.jpeg' />
                 </div>
 
                 <div className="container3">

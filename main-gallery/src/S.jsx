@@ -13,10 +13,10 @@ const S = () => {
                 <h1 className="header"></h1>
                 
                 <div className="container">
-                <img height='450px' width='875px' src='src/assets/IMG_1140.jpeg' />
+                <img height='450px' width='875px' src='/assets/IMG_1140.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='875px' src='src/assets/IMG_1139.jpeg' />
+                <img height='450px' width='875px' src='/assets/IMG_1139.jpeg' />
                 </div>
                 
                 <div className="container3">

@@ -14,18 +14,18 @@ const Salty = () => {
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1286.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1286.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1285.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1285.jpeg' />
                 </div>
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1287.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1287.jpeg' />
                 </div>
                 <div className="container">
-                <img height='450px' width='350px' src='src/assets/IMG_1297.jpeg' />
+                <img height='450px' width='350px' src='/assets/IMG_1297.jpeg' />
                 </div>
                 </div>
 
