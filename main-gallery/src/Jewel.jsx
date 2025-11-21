@@ -13,19 +13,19 @@ const Jewel = () => {
                 <h1 className="header">JEWEL</h1>
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1110.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1110.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1111.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1111.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1112.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1112.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1117.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1117.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1137.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1137.jpeg' />
                 </div>
 
                 <div className="container3">

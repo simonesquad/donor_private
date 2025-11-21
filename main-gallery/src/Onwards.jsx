@@ -14,19 +14,19 @@ const Onwards = () => {
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='480px' width='300px' src='src/assets/IMG_1411.jpeg' />
+                <img height='480px' width='300px' src='/assets/IMG_1411.jpeg' />
                 </div>
                 <div className="container">
-                <img height='480px' width='300px' src='src/assets/IMG_1413.jpeg' />
+                <img height='480px' width='300px' src='/assets/IMG_1413.jpeg' />
                 </div>
                 </div>
 
                 <div className="container2">
                 <div className="container">
-                <img height='480px' width='300px' src='src/assets/IMG_1424.jpeg' />
+                <img height='480px' width='300px' src='/assets/IMG_1424.jpeg' />
                 </div>
                 <div className="container">
-                <img height='480px' width='300px' src='src/assets/IMG_1425.jpeg' />
+                <img height='480px' width='300px' src='/assets/IMG_1425.jpeg' />
                 </div>
                 </div>
 

@@ -14,13 +14,13 @@ const Quad = () => {
                 
                 <div className="container2">
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1173.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1173.mp4" type="video/mp4" />
                 </video> 
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1175.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1175.mp4" type="video/mp4" />
                 </video>  
                 <video width="320" height="540" controls>
-                    <source src="src/assets/IMG_1174.mp4" type="video/mp4" />
+                    <source src="/assets/IMG_1174.mp4" type="video/mp4" />
                 </video> 
                 </div>            
             </div>

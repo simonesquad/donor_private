@@ -13,16 +13,16 @@ const Desert = () => {
                 <h1 className="header">DESERT VISIONS</h1>
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1107.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1107.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1106.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1106.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1105.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1105.jpeg' />
                 </div>
                 <div className="container">
-                <img height='400px' width='350px' src='src/assets/IMG_1104.jpeg' />
+                <img height='400px' width='350px' src='/assets/IMG_1104.jpeg' />
                 </div>
 
               <div className="container3">

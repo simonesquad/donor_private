@@ -14,10 +14,10 @@ const Night = () => {
                 </div>
                 <div className="container2">
                 <div className="container">
-                <img height='500px' width='425px' src='src/assets/IMG_1134.jpeg' />
+                <img height='500px' width='425px' src='/assets/IMG_1134.jpeg' />
                 </div>
                 <div className="container">
-                <img height='500px' width='425px' src='src/assets/IMG_1135.jpeg' />
+                <img height='500px' width='425px' src='/assets/IMG_1135.jpeg' />
                 </div>
                 </div>
 
