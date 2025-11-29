@@ -22,7 +22,7 @@ const Slick = () => {
         <div>
             <div className="content">
                 <h1 className="header">WELCOME TO MY FIRST BURN!!</h1>
-                <img height='390px' width='900px' src='/assets/IMG_1055.jpeg' />
+                <img height="390px" width="900px" src="/assets/IMG_1055.jpeg" />
                 <div className="container">
                     <p>Howdy travellers of the universe! Welcome to my commemoration page of Burning Man 2025</p>
                     <p>It was a journey of many miles from San Diego to Las Vegas to Reno and then to Black Rock City, but really it was a journey of infinite soul miles</p>
